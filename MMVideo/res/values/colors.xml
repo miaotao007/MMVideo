@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="deep_gray">#444</color>
+    <color name="light_gray">#bbb</color>
+    <color name="orange">#EA7B3D</color>
+    <color name="orange_pressed">#DB6C2E</color>
+    <color name="green">#2DCC70</color>
+    <color name="green_pressed">#1EBD61</color>
+    <color name="blue">#3598DB</color>
+    <color name="blue_pressed">#2689CC</color>
+    <color name="purple">#9A59B5</color>
+    <color name="purple_pressed">#8B4AA6</color>
+    <color name="cyan">#1BBC9B</color>
+    <color name="cyan_pressed">#0CAD8C</color>
+    <color name="red">#E84C3D</color>
+    <color name="red_pressed">#D93D2E</color>
+    <color name="yellow">#F1C40F</color>
+    <color name="yellow_pressed">#E2B500</color>
+    <color name="old_blue">#34495E</color>
+    <color name="old_blue_pressed">#253A4F</color>
+    <color name="grass_green">#79C063</color>
+    <color name="grass_green_pressed">#6AB154</color>
+    <color name="title_shadow_color">#b1c972</color>
+    <color name="title_text_color">#546e25</color>
+    <color name="half_transparent">#50000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="text_color">#68852f</color>
+    
+    <color name="sideseparator_color">#ffcccccc</color>
+    <color name="fullunderline_color">#ff888888</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    
+    <color name="text_color_light_gray">#D9D9D9</color>
+    <color name="text_color_black">#222</color>
+    <color name="text_color_red">#d00</color>
+    <color name="text_color_white">#FFF</color>
+    <color name="text_color_gray">#777</color>
+    <color name="text_color_shadow_black">#4C000000</color>
+    <color name="text_color_shadow_white">#FFF</color>
+    
+    <color name="notif_bg">#70FFFFFF</color>
+    <color name="notif_text_color">#222</color>
+    
+    <color name="navi_bg">#E8EBEE</color>
+    <color name="category_bg">#EEF2F6</color>
+    <color name="guide_bg">#60030303</color>
+    
+    <color name="background_holo_light">#fff3f3f3</color>
+    <color name="bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="activity_bg_color">#fff</color>
+    <color name="mini_player_bg_color">#F0F0F0</color>
+    <color name="menu_btn_bg">#70080808</color>
+    <color name="menu_btn_bg_selected">#70838B83</color>
+
+    <color name="mask_color">#A0FFFFFF</color>
+    
+    <color name="item_seleted">#2689CC</color>
+	<color name="job_list_driver">#cccccc</color>
+</resources>

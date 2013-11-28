@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <com.mt.video.widgets.CornerListView
+        android:id="@+id/setting_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/shape_bg_listview"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/job_list_driver"
+        android:dividerHeight="1dp"
+        android:fadingEdge="none"
+        android:listSelector="#00000000"
+        android:padding="1dip" >
+    </com.mt.video.widgets.CornerListView>
+
+</RelativeLayout>

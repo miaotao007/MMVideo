@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="slide_animation_duration">300</integer>
+    <integer name="loading_animation_duration_in">200</integer>
+    <integer name="loading_animation_duration_out">200</integer>
+    <integer name="dialog_animation_duration_in">200</integer>
+    <integer name="dialog_animation_duration_out">200</integer>
+    <integer name="shadow_dx">1</integer>
+    <integer name="shadow_dy">1</integer>
+    <integer name="shadow_Radius_small">1</integer>
+    <integer name="shadow_Radius">3</integer>
+    <integer name="anyhow_fadein_animation_duration">400</integer>
+    <integer name="fadein_animation_duration">300</integer>
+    <integer name="fadeout_animation_duration">300</integer>
+    <integer name="player_screen_weight_up">10</integer>
+    <integer name="player_screen_weight_down">7</integer>
+</resources>
